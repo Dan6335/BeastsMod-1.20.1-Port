@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ {
+      "item": "minecraft:bone"
+    }, {
+      "type": "forge:ore_dict",
+      "ore": "treeLeaves"
+    }
+  ],
+  "result": {
+    "item": "beasts:leafy_bone"
+  }
+}

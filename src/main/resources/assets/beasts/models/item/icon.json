@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "beasts:item/icon"
+  },
+  "display": {
+    "gui" : {
+      "scale": [ 2, 2, 2 ]
+    }
+  }
+}

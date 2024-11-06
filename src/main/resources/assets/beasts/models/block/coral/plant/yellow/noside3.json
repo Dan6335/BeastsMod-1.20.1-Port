@@ -1,0 +1,24 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "texture": "beasts:blocks/coral/block/yellow",
+        "inside": "beasts:blocks/coral/block/yellow",
+        "particle": "beasts:blocks/coral/block/yellow"
+    },
+    "elements": [ {   "from": [ 4, 4, 4 ],
+            "to": [ 12, 12, 12 ],
+            "faces": {
+                "north": { "texture": "#inside" }
+            }
+        }, {   "from": [ 4, 4, 3 ],
+            "to": [ 12, 12, 4 ],
+            "faces": {
+                "down":  { "texture": "#texture" },
+                "up":    { "texture": "#texture" },
+                "north": { "texture": "#texture" },
+                "west":  { "texture": "#texture" },
+                "east":  { "texture": "#texture" }
+            }
+        }
+    ]
+}

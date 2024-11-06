@@ -1,0 +1,60 @@
+{
+    "parent": "beasts:item/shell_shield_item",
+    "display": {
+        "thirdperson_righthand": {
+          "rotation": [
+            45,
+            -45,
+            0
+          ],
+          "translation": [
+            0.5,
+            0,
+            1
+          ]
+        },
+        "thirdperson_lefthand": {
+          "rotation": [
+            45,
+            -45,
+            0
+          ],
+          "translation": [
+            0.5,
+            0,
+            1
+          ]
+        },
+        "firstperson_righthand": {
+          "rotation": [
+            0,
+            0,
+            10
+          ],
+          "translation": [
+            -5,
+            2.25,
+            -1
+          ]
+        },
+        "firstperson_lefthand": {
+          "rotation": [
+            0,
+            0,
+            10
+          ],
+          "translation": [
+            -5,
+            2.25,
+            -1
+          ]
+        },
+        "gui": {
+          "rotation": [
+            0,
+            180,
+            0
+          ]
+        }
+    }
+}
